@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1615622492 source:f:\snake\src\snake.cpp
+	"Snake.h"
+	<vector>
+
+1615621742 f:\snake\include\snake.h
+	<vector>
+	<windows.h>
+
+1615619096 source:f:\snake\src\food.cpp
+	"Food.h"
+
+1615621465 f:\snake\include\food.h
+	<windows.h>
+	<cstdlib>
+	<vector>
+
+1615621935 source:f:\snake\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	"Snake.h"
+	"Food.h"
+
