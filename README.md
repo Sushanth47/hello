@@ -1,2 +1,2 @@
 # hello
-My Repository
+Files for my Snake Game Project.
